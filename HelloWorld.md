@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld"
-author: "Mario Matsui"
+author: "MM"
 date: "2021/12/1"
 output: html_document
 ---
